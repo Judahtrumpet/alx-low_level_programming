@@ -1,14 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - thios is the main
+ * main - tis is the main function
  *
- * Return: always 0
+ * Return:: 0 when sucessful
  */
-
 int main(void)
 {
-    puts("\"Programming is like building a multilingual puzzle");
-    return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
-
